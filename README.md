@@ -6,9 +6,14 @@ An unnoficial update that adds new functionality
 This is currently WIP so see you soon!
 
 ## Roadmap
+
 Add vibration
+
 Ability to add custom hit sounds
+
 Fix Oculus Quest 2 Bug
+
 Easy support for player models.
 
-If Lemming would like me to delete this, I am happy to do so!
+
+**If Lemming would like me to delete this, I am happy to do so!**
