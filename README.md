@@ -11,7 +11,7 @@ Add vibration
 
 Ability to add custom hit sounds for any surface
 
-Fix Oculus Quest 2 Bug
+Fix Oculus Quest 2 not working correctly on build
 
 Easy support for player models.
 
