@@ -22,3 +22,4 @@ Easy online support with Photon
 
 
 ### **If Lemming would like me to delete this, I am happy to do so!**
+### Just in case, I do not own the gorilla tag player. Also, do NOT make a gorilla tag clone and instead make something unique as lemming said on the original
