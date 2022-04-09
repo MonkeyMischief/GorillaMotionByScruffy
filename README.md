@@ -1,7 +1,7 @@
 ![logo](https://github.com/TheScruffyKat/GorillaMotion/blob/main/gorillaMotion.png?raw=true)
 
 # GorillaMotion for GorillaLocomotion
-An unnoficial update that adds new functionality. Original gorillalocomotion package also required
+An unnoficial update that adds new functionality. Original gorillalocomotion package will also need to be installed to use
 
 **99% of the code is by LemmingVR and not me: Please star the original and not mine!**
 
