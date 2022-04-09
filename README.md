@@ -5,7 +5,7 @@ An unnoficial update that adds new functionality
 
 This is currently WIP so see you soon!
 
-##Roadmap
+## Roadmap
 Add vibration
 Ability to add custom hit sounds
 Fix Oculus Quest 2 Bug
