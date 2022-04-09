@@ -9,7 +9,7 @@ This is currently WIP so see you soon!
 
 Add vibration
 
-Ability to add custom hit sounds
+Ability to add custom hit sounds for any surface
 
 Fix Oculus Quest 2 Bug
 
