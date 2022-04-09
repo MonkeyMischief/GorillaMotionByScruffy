@@ -15,5 +15,8 @@ Fix Oculus Quest 2 Bug
 
 Easy support for player models.
 
+Easy online support with Photon
+
+
 
 ### **If Lemming would like me to delete this, I am happy to do so!**
