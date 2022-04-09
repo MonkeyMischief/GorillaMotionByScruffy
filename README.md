@@ -1,3 +1,5 @@
+![logo](https://github.com/TheScruffyKat/GorillaMotion/blob/main/gorillaMotion.png?raw=true)
+
 # GorillaMotion for GorillaLocomotion
 An unnoficial update that adds new functionality. Original gorillalocomotion package also required
 
