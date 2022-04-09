@@ -1,5 +1,5 @@
 # GorillaMotion for GorillaLocomotion
-An unnoficial update that adds new functionality
+An unnoficial update that adds new functionality. Original gorillalocomotion package also required
 
 **99% of the code is by LemmingVR and not me: Please star the original and not mine!**
 
