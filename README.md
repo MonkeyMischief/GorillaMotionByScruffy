@@ -22,6 +22,8 @@ Easy support for player models.
 
 Easy online support with Photon
 
+Easy voicechat support
+
 Easy cosmetics support [NEW]
 
 
