@@ -22,6 +22,8 @@ Easy support for player models.
 
 Easy online support with Photon
 
+Easy cosmetics support [NEW]
+
 
 
 ### **If Lemming would like me to delete this, I am happy to do so!**
