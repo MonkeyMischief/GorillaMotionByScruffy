@@ -7,6 +7,9 @@ An unnoficial update that adds new functionality. Original gorillalocomotion pac
 
 This is currently WIP so see you soon!
 
+# Progress update!
+### Just need a few finishing touches but may still take a bit
+
 ## Roadmap
 
 Add vibration
