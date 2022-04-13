@@ -31,5 +31,5 @@ Easy cosmetics support [NEW]
 ### **If Lemming would like me to delete this, I am happy to do so!**
 ### Just in case, I do not own the gorilla tag player. Also, do NOT make a gorilla tag clone and instead make something unique as lemming said on the original
 
-##About editing
+## About editing
 Feel free to edit this as much as you want, but I would preferably want you to fork this repository if you do share it. Thank you!
