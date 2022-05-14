@@ -37,4 +37,6 @@ Easy cosmetics support [NEW]
 Feel free to edit this as much as you want, but I would preferably want you to fork this repository if you do share it. Thank you!
 
 ## About using in your project
-Use is free but I would like you to credit me and lemming somewhere
+Use is free but I would like you to credit me and lemming somewhere. For example, adding this somewhere like the credits scene:
+
+Modified version of gorillaLocomotion (by lemming) is from TheScruffyKat's "GorillaMotion". Most credit goes to Lemming
