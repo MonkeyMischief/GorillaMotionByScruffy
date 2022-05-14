@@ -8,7 +8,7 @@ An unnoficial update that adds new functionality. Original gorillalocomotion pac
 This is currently WIP so see you soon!
 
 # Progress update!
-### Just need a few more features but may still take a bit as I am also working on my own game lol
+### Had to restart but I will start work on it again soon!
 
 ## Roadmap
 
