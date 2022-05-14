@@ -14,6 +14,8 @@ This is currently WIP so see you soon!
 
 Add vibration
 
+Fix / Remake Slippery Surfaces
+
 Ability to add custom hit sounds for any surface
 
 Fix Oculus Quest 2 not working correctly on build
