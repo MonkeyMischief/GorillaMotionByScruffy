@@ -37,4 +37,4 @@ Easy cosmetics support [NEW]
 Feel free to edit this as much as you want, but I would preferably want you to fork this repository if you do share it. Thank you!
 
 ## About using in your project
-Use is free but I would like you at credit me (and probably lemming) somewhere
+Use is free but I would like you to credit me (and probably lemming) somewhere
